@@ -1,7 +1,5 @@
 # 🚀 Portfolio Gerardo Herrera | Frontend Developer
 
-![Portfolio Preview](./images/preview.jpg)
-
 ## 📌 Descripción
 Portfolio personal desarrollado como parte del Frontend Roadmap, implementando HTML semántico, CSS moderno y diseño responsive.
 
